@@ -4,10 +4,10 @@
     "url": "https://panel.itrupp.de/",
     "icon": "https://icons.duckduckgo.com/ip3/panel.itrupp.de.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
@@ -15,14 +15,16 @@
     "timeWeek": 904,
     "timeMonth": 905,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-12": 1
+    }
   },
   {
     "name": "Node 0",
     "url": "https://node.itrupp.de",
     "icon": "https://icons.duckduckgo.com/ip3/node.itrupp.de.ico",
     "slug": "node-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 743,
     "timeMonth": 763,
     "timeYear": 731,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-12": 0
+    }
   }
 ]
